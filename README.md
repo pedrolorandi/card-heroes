@@ -1,12 +1,7 @@
 
-# Card Heroes Midterm Project
-
-Card Heroes is a project as part of Lighthouse Labs midterms.
-Out of 10 projects, Card Heroes is based on option #8 which is a Buy/Sell website.
-
+# Card Heroes - Lighthouse Labs midterm project
 
 Card Heroes is the ultimate destination for trading card enthusiasts. With over a million cards to choose from, we have the perfect card for every collector. Whether you’re looking for the rarest of cards or just need a few to start your collection, Card Heroes has it all. Our online store offers a secure and safe shopping experience. Let Card Heroes be your heroes of the trading card world!
-
 
 ## Authors
 
