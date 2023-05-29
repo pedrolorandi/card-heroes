@@ -84,9 +84,9 @@ localhost:8080
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JS, EJS, SASS
+**Client:** HTML, SASS, JS, EJS
 
-**Server:** Node, Express, Postgesql 
+**Server:** Node, Express, PostgeSQL
 
 
 ## Dependencies
