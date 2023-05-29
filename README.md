@@ -86,7 +86,7 @@ localhost:8080
 
 **Client:** HTML, SASS, JS, EJS
 
-**Server:** Node, Express, PostgeSQL
+**Server:** Node, Express, PostgreSQL
 
 
 ## Dependencies
